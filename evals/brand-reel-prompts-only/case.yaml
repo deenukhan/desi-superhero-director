@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: brand-reel-prompts-only
+expected_outcome: |
+  Makes the chai premix the hero's tool inside his trade without breaking his powers, plans a 30 s micro-story (about 3-5 clips) with a build, a reveal on the music drop and a product close-up, shows Director/Critic review, writes Runway-ready prompts using @Image N references with an upload list, skips the credit question because the user asked for prompts only, and flags an ad disclosure.
